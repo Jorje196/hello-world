@@ -5,7 +5,7 @@
 </head>
 
 <body>
-  <?php  // комментарий
+  <?php
     echo "Hello, friends "	?>
 </body>
 </html>
