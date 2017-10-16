@@ -1,3 +1,5 @@
+<Document!>
+<html>
 <head>
   <title> First script php </title>
 </head>
@@ -6,3 +8,4 @@
   <?php
     echo "Hello, friends "	?>
 </body>
+</html>
