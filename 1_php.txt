@@ -1,2 +1,8 @@
-<?php
+<head>
+  <title> First script php </title>
+</head>
+
+<body>
+  <?php
     echo "Hello, friends "	?>
+</body>
